@@ -38,6 +38,6 @@
 <div>
   <a href="https://github.com/edmont1">
     <img height="180px" src="https://github-stats-instance.vercel.app/api?username=edmont1&show_icons=true&theme=github_dark&count_private=true"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmont1&layout=compact&theme=github_dark"/>
+    <img height="180px" src="https://github-stats-instance.vercel.app/api/top-langs/?username=edmont1&layout=compact&theme=github_dark"/>
   </a>
 </div>
